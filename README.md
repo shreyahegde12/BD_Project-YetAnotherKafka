@@ -1,2 +1,2 @@
-# BigData_Project-YetAnotherKafka
+# BD_Project-YetAnotherKafka
 Clone of Kafka 
